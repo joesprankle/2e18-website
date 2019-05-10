@@ -6,9 +6,9 @@ baseurl:           ""
 url:               "http://www.2e18.com"
 
 # Social Profiles
-twitter_username:  joe_sprankle
 github_username:   joesprankle
-facebook_username: StartBootstrap
+linkedin_username: joe-sprankle
+youtube_username: StartBootstrap
 
 # Build settings
 markdown:          kramdown
